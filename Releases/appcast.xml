@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Auralis updates</title>
+    <link>https://github.com/julsbrugeaud-dotcom/Auralis</link>
+    <description>Official Auralis update feed.</description>
+    <language>en</language>
+    <item>
+      <title>Auralis 1.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <pubDate>Sun, 19 Jul 2026 00:16:02 +0200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/julsbrugeaud-dotcom/Auralis-updates/main/Releases/Auralis-1.2-3.zip"
+                 sparkle:edSignature="m7gOSIYrv9SWVxp/iQvyflDCMPlq/ni6gGfslC1WklK15nPi6X7vYHlCgR1AEavK8YWOFhsz9Ifpb/j+8RhABw=="
+                 length="6904226"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
