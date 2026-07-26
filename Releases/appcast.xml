@@ -7,12 +7,12 @@
     <language>en</language>
     <item>
       <title>Auralis 1.2</title>
-      <sparkle:version>26</sparkle:version>
+      <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <pubDate>Sun, 26 Jul 2026 22:54:14 +0200</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/julsbrugeaud-dotcom/Auralis-updates/main/Releases/Auralis-1.2-26.zip"
-                 sparkle:edSignature="m+TZ4O8oPqfGy0BgCw9fFbYKd5n0oirhxrqi4r0XEmm0IAKBqthGCZGLuCRQ54tLRG8T3975K+ltxwXcy5OVDA=="
-                 length="7178249"
+      <pubDate>Sun, 26 Jul 2026 22:56:45 +0200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/julsbrugeaud-dotcom/Auralis-updates/main/Releases/Auralis-1.2-27.zip"
+                 sparkle:edSignature="RqneTVrMeAwkMWlPODFbTJD0XLC2s04d0JXX0GLgCBHdKh96ADTwv4P2sjNklfLQYeePKVA3B8gKv2DrxrlhBA=="
+                 length="7180587"
                  type="application/octet-stream" />
     </item>
   </channel>
