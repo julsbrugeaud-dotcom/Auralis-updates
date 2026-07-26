@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Auralis updates</title>
+    <title>オーラリス updates</title>
     <link>https://github.com/julsbrugeaud-dotcom/Auralis</link>
-    <description>Official Auralis update feed.</description>
+    <description>Official オーラリス update feed.</description>
     <language>en</language>
     <item>
-      <title>Auralis 1.2</title>
-      <sparkle:version>41</sparkle:version>
+      <title>オーラリス 1.2</title>
+      <sparkle:version>42</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <pubDate>Mon, 27 Jul 2026 00:44:03 +0200</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/julsbrugeaud-dotcom/Auralis-updates/main/Releases/Auralis-1.2-41.zip"
-                 sparkle:edSignature="72uENYwoDPxIRuXoXkaEKRxROLTgin8iRls+iaD774XCulamttuplfrXs2brc9nZt8vJcFYPQCoB8QdqFSGMAA=="
-                 length="8677583"
+      <pubDate>Mon, 27 Jul 2026 00:47:27 +0200</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/julsbrugeaud-dotcom/Auralis-updates/main/Releases/Auralis-1.2-42.zip"
+                 sparkle:edSignature="9FkfdP6dJGeM51claFqcbaHC9OFQQsE4PvV7MXQnVePy3DTrJsoU+KW1jvDjC/6Ea6IWuGcEN3oXleQJ+ILVAA=="
+                 length="8677663"
                  type="application/octet-stream" />
     </item>
   </channel>
